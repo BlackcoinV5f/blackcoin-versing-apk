@@ -1,6 +1,6 @@
-data class VersionInfo(
-    val min_version_code: Int,
-    val latest_version_code: Int,
-    val force_update: Boolean
-)
+{
+  "min_version_code": 2,
+  "latest_version_code": 5,
+  "force_update": true
+}
 
