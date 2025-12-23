@@ -1,7 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v1.0/app-release.apk"
+  "min_version_code": 2,
+  "latest_version_code": 2,
+  "force_update": true,
+  "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v2.0/app-release.apk"
 }
 
 
