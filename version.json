@@ -1,8 +1,8 @@
 {
   "min_version_code": 2,
   "latest_version_code": 2,
-  "force_update": true,
-  "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v2.0/app-release.apk"
+  "force_update": false,
+  "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v2.0/blackcoin-2.0.apk"
 }
 
 
