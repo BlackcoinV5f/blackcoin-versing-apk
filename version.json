@@ -1,7 +1,5 @@
 {
-  "min_version_code": 2,
   "latest_version_code": 3,
-  "force_update": true,
   "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v3.0/blackcoin.3.0.apk",
-  "sha256": "A3F5E9D2C1B7F8D4E6A1234567890ABCDEF1234567890ABCDEF1234567890AB"
+  "apk_sha256": "A3F5E9D2C1B7F8D4E6A1234567890ABCDEF1234567890ABCDEF1234567890AB"
 }
