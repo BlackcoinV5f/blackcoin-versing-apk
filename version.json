@@ -1,9 +1,10 @@
 {
-  "latest_version_code": 4,
-  "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v4.0/blackcoin.apk",
-  "apk_sha256": "bdac05078aa9972834392f4170edaa845097f9d15aa64689b9a7fb1093ef5ee5",
+  "latest_version_code": 5,
+  "apk_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v5.0/blackcoin.apk",
+  "apk_sha256": "7a76e1a05dc037c46b48853c5ea9846b06ccb63bef39096bc46d0a05e92c115c",
   "pending": true
 }
+
 
 
 
