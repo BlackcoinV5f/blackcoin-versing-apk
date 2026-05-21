@@ -1,7 +1,7 @@
 {
   "min_version_code": 8,
   "latest_version_code": 8,
-  "force_update": true,
+  "force_update": false,
   "download_url": "https://github.com/BlackcoinV5f/blackcoin-versing-apk/releases/download/v8.0/LitonNetwork-v8.0.apk",
-  "apk_sha256": "635c8898c880d1b2aab1dc437ed947e072694ab97948c44359bceec4e730fb5e"
+  "apk_sha256": "0a34cf75b1072cef3715002dc0178a5a2cbcff325405ba3f4c0968df111e6101"
 }
